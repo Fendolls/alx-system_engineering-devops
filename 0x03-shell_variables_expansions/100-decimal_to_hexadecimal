@@ -1,2 +1,2 @@
 #!/bin/bash
-prinf "%x\n" $DWCIMAL
+printf "%x\n" $DECIMAL
